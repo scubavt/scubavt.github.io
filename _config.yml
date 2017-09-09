@@ -11,12 +11,12 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: Scuba Club at Virginia Tech
+description: Exploring the seas
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
+  name: Scuba Club at Virginia Tech
+  email: scubaclub@vt.edu
+  url: scubavt.github.io
 first_published: 1996 # if migrating another site, the year of your first publish
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://arkadianriver.com" # the base hostname & protocol for your site
@@ -24,7 +24,7 @@ first_published: 1996 # if migrating another site, the year of your first publis
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
+  title: Welcome!
   text: I hope you enjoy my collection
 # - title for your blog's featured posts
 features-title: Featured topics
@@ -34,14 +34,14 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  #twitter: https://twitter.com/arkadianriver
+  #github: https://github.com/arkadianriver
+  #linkedin-square: https://linkedin.com/in/garyfaircloth
+  facebook-official: https://www.facebook.com/ScubaVT/
+  #google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
   email: /contact/
   #flickr:
-  #instagram:
+  instagram: https://www.instagram.com/scubaatvt/
   #youtube-square:
   #spotify:
   #stack-overflow:
