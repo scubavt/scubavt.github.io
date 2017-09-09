@@ -25,7 +25,7 @@ first_published: 1996 # if migrating another site, the year of your first publis
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!
-  text: I hope you enjoy my collection
+  text: "We dive not to escape life, but for life not to escape us."
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
