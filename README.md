@@ -1,6 +1,9 @@
-## arkadianriver.com
+# Scuba Club at Virginia Tech
 
-My personal web site, based off the http://html5up.net/spectral design by
+:tropical_fish: :fish: :whale: :whale2: :dolphin:
+
+## Credits
+Template from arkadianriver.com which is based off the http://html5up.net/spectral design by
 [@ajlkn](http://twitter.com/ajlkn).
 The site is made for blog and portfolio content. The blog can contain both
 personal entries and entries by syndicated authors.
