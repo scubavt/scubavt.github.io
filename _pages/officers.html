@@ -11,12 +11,19 @@ background-image: pic02.jpg
 {
     float: left;
 }
+
+.image-cropper {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 75%;
+}
 </style>
 
 Our club officers for the 2017 - 2018 Academic Year.
 
 {% for officer in site.club_officers %}
-  <div class="floated_img">
+  <div class="image-cropper">
       <img src="{{ officer.img }}"
       title="{{ officer.name }}"
       style="border-radius::{{ site.club_officers_settings.global_border_radius }};

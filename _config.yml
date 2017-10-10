@@ -122,12 +122,8 @@ empty_array: []
 
 # Club Officers Page
 
-  - position:
-    name: 
-    major:
-    cert:
-
 club_officers_settings:
+  global_border_radius: 50%
   global_size_width: 200px
   global_size_height: 200px
 
@@ -136,7 +132,7 @@ club_officers:
     name: Joey Griffiths
     major: Material Science Engineering
     cert:  IANTD Rescue Diver
-    img: /images/scibavt/people/joey.jpg
+    img: /images/scubavt/people/joey.jpg
 
   - position: Vice President
     name: 
@@ -147,37 +143,37 @@ club_officers:
     name: Ashley Bond
     major:
     cert: IANTD Advanced Open Water
-    img: /images/scibavt/people/ashley.jpg
+    img: /images/scubavt/people/ashley.jpg
 
   - position: Dive Director
     name: Tyler Ruf
     major: Physics
     cert: IANTD Divemaster Candidate
-    img: /images/scibavt/people/tyler.jpg
+    img: /images/scubavt/people/tyler.jpg
 
   - position: Gear Officer
     name: Amanda Michel
     major:
     cert:
-    img: /images/scibavt/people/amanda.jpg
+    img: /images/scubavt/people/amanda.jpg
 
   - position: Gear Officer
     name: Christine Ellis
     major:
     cert: IANTD Advanced Open Water
-    img: /images/scibavt/people/christine.jpg
+    img: /images/scubavt/people/christine.jpg
 
   - position: Gear Officer
     name: Clay Cunningham
     major:
     cert:
-    img: /images/scibavt/people/clay.jpg
+    img: /images/scubavt/people/clay.jpg
 
   - position: Gear Officer
     name: Eli Carlyle
     major:
     cert:
-    img: /images/scibavt/people/eli.jpg
+    img: /images/scubavt/people/eli.jpg
 
   - position: Marketing
     name: 
@@ -208,10 +204,10 @@ club_officers:
     name: Daniel Chen,
     major: Research Associate and PhD Student
     cert: IANTD Divemaster Candidate
-    img: /images/scibavt/people/daniel.jpg
+    img: /images/scubavt/people/daniel.jpg
 
   - position: Secretary
     name: Sarah Wilson
     major:
     cert: IANTD Advanced Open Water
-    img: /images/scibavt/people/sarah.jpg
+    img: /images/scubavt/people/sarah.jpg
