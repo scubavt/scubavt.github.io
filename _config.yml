@@ -134,7 +134,7 @@ club_officers:
     cert:  IANTD Rescue Diver
     img: /images/scubavt/people/joey_square.jpg
 
-  - position: Vice President
+  - position: Vice President and Dive Director
     name: Tyler Ruf
     major: Physics
     cert: IANTD Divemaster Candidate
@@ -145,12 +145,6 @@ club_officers:
     major:
     cert: IANTD Advanced Open Water
     img: /images/scubavt/people/ashley_square.jpg
-
-  - position: Dive Director
-    name: 
-    major: 
-    cert: 
-    img:
 
   - position: Gear Officer
     name: Amanda Michel

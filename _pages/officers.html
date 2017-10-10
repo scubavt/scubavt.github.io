@@ -20,14 +20,13 @@ background-image: officer_page.jpg
 }
 </style>
 
-Our club officers for the 2017 - 2018 Academic Year.
+<h1 style="color:blue;">Our club officers for the 2017 - 2018 Academic Year.</h1>
 
 {% for officer in site.club_officers %}
   <div>
       <img class="rounded"
       src="{{ officer.img }}"
       title="{{ officer.name }}">
-      {{ officer.name }}, {{ officer.major}}, {{ officer.cert}}
+      {{ officer.position }}, {{ officer.name }}, {{ officer.major}}, {{ officer.cert}}
   </div>
-
 {% endfor %}
