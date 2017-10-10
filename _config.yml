@@ -121,12 +121,6 @@ defaults:
 empty_array: []
 
 # Club Officers Page
-
-club_officers_settings:
-  global_border_radius: 50%
-  global_size_width: 200px
-  global_size_height: 200px
-
 club_officers:
   - position: President
     name: Joey Griffiths
@@ -181,3 +175,41 @@ club_officers:
     major:
     cert: IANTD Advanced Open Water
     img: /images/scubavt/people/sarah_square.jpg
+
+# Club Officers Page
+instructors:
+  - name: Mark Guenther
+    img: /images/scubavt/people/mark_square.jpg
+    certs: Full Cave, Trimix
+    blurb: >
+      Fully devoted to the sport of SCUBA,
+      He also owns and runs <a href='https://www.facebook.com/PubGrubNRV/'>
+      Pub Grub</a> at the New River Valley Mall.
+
+  - name: Chuk Horton
+    img: /images/scubavt/people/chuck.jpg
+    certs: SDI Instructor
+    blurb: >
+      Chuck is a great guy.  He also works at the
+      <a href='http://www.blacksburg.gov/departments/departments-l-z/parks-and-recreation/aquatic-center'>
+      Blacksburg Aquatic Center</a>.
+
+  - name: Phillip Grambo
+    img: /images/scubavt/people/phil_square.jpg
+    certs: IANTD Instructor
+    blurb: >
+      A former president of the club,
+      Phill is now an IANTD instructor helping the next round obtain his/her
+      open water certification.
+      But he's not your average instructor!
+      Before gaining his instructor certification,
+      he served as the club's divemaster for a year,
+      and is currently a graduate student in mechanical engineering at Tech.
+
+  - name: Scott Sanders
+    img: /images/scubavt/people/scott_square.jpg
+    certs: Everything
+    blurb: >
+      There woudn't be a diving community in Blacksburg
+      let alone a technical diving community without Scott.
+      <a href='http://techdivecenter.com/'>Tech Dive Center</a>.
