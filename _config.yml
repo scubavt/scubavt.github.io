@@ -119,3 +119,99 @@ defaults:
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
+
+# Club Officers Page
+
+  - position:
+    name: 
+    major:
+    cert:
+
+club_officers_settings:
+  global_size_width: 200px
+  global_size_height: 200px
+
+club_officers:
+  - position: President
+    name: Joey Griffiths
+    major: Material Science Engineering
+    cert:  IANTD Rescue Diver
+    img: /images/scibavt/people/joey.jpg
+
+  - position: Vice President
+    name: 
+    major:
+    cert:
+
+  - position: Treasurer
+    name: Ashley Bond
+    major:
+    cert: IANTD Advanced Open Water
+    img: /images/scibavt/people/ashley.jpg
+
+  - position: Dive Director
+    name: Tyler Ruf
+    major: Physics
+    cert: IANTD Divemaster Candidate
+    img: /images/scibavt/people/tyler.jpg
+
+  - position: Gear Officer
+    name: Amanda Michel
+    major:
+    cert:
+    img: /images/scibavt/people/amanda.jpg
+
+  - position: Gear Officer
+    name: Christine Ellis
+    major:
+    cert: IANTD Advanced Open Water
+    img: /images/scibavt/people/christine.jpg
+
+  - position: Gear Officer
+    name: Clay Cunningham
+    major:
+    cert:
+    img: /images/scibavt/people/clay.jpg
+
+  - position: Gear Officer
+    name: Eli Carlyle
+    major:
+    cert:
+    img: /images/scibavt/people/eli.jpg
+
+  - position: Marketing
+    name: 
+    major:
+    cert:
+
+  - position: Historian
+    name: 
+    major:
+    cert:
+
+  - position: Fundraising
+    name: 
+    major:
+    cert:
+
+  - position: Divemaster
+    name: 
+    major:
+    cert:
+
+  - position: Instructor
+    name: 
+    major:
+    cert:
+
+  - position: Webmaster
+    name: Daniel Chen,
+    major: Research Associate and PhD Student
+    cert: IANTD Divemaster Candidate
+    img: /images/scibavt/people/daniel.jpg
+
+  - position: Secretary
+    name: Sarah Wilson
+    major:
+    cert: IANTD Advanced Open Water
+    img: /images/scibavt/people/sarah.jpg

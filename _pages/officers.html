@@ -1,0 +1,27 @@
+---
+key: 1
+title: Club Officers
+permalink: /officers/
+excerpt: Club Officers
+image: pic02.jpg
+background-image: pic02.jpg
+---
+<style>
+.floated_img
+{
+    float: left;
+}
+</style>
+
+Our club officers for the 2017 - 2018 Academic Year.
+
+{% for officer in site.club_officers %}
+  <div class="floated_img">
+      <img src="{{ officer.img }}"
+      title="{{ officer.name }}"
+      style="border-radius::{{ site.club_officers_settings.global_border_radius }};
+             width:{{ site.club_officers_settings.global_size_width }};
+             height:{{ site.club_officers_settings.global_size_height }};">
+  </div>
+
+{% endfor %}
