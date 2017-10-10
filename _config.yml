@@ -132,24 +132,25 @@ club_officers:
     name: Joey Griffiths
     major: Material Science Engineering
     cert:  IANTD Rescue Diver
-    img: /images/scubavt/people/joey.jpg
+    img: /images/scubavt/people/joey_square.jpg
 
   - position: Vice President
-    name: 
-    major:
-    cert:
+    name: Tyler Ruf
+    major: Physics
+    cert: IANTD Divemaster Candidate
+    img: /images/scubavt/people/tyler_square.jpg
 
   - position: Treasurer
     name: Ashley Bond
     major:
     cert: IANTD Advanced Open Water
-    img: /images/scubavt/people/ashley.jpg
+    img: /images/scubavt/people/ashley_square.jpg
 
   - position: Dive Director
-    name: Tyler Ruf
-    major: Physics
-    cert: IANTD Divemaster Candidate
-    img: /images/scubavt/people/tyler.jpg
+    name: 
+    major: 
+    cert: 
+    img:
 
   - position: Gear Officer
     name: Amanda Michel
@@ -161,47 +162,22 @@ club_officers:
     name: Christine Ellis
     major:
     cert: IANTD Advanced Open Water
-    img: /images/scubavt/people/christine.jpg
+    img: /images/scubavt/people/christine_square.jpg
 
   - position: Gear Officer
     name: Clay Cunningham
-    major:
-    cert:
+    major: Computer Science
+    cert: IAND Rescue Diver
     img: /images/scubavt/people/clay.jpg
 
   - position: Gear Officer
     name: Eli Carlyle
-    major:
-    cert:
-    img: /images/scubavt/people/eli.jpg
-
-  - position: Marketing
-    name: 
-    major:
-    cert:
-
-  - position: Historian
-    name: 
-    major:
-    cert:
-
-  - position: Fundraising
-    name: 
-    major:
-    cert:
-
-  - position: Divemaster
-    name: 
-    major:
-    cert:
-
-  - position: Instructor
-    name: 
-    major:
-    cert:
+    major: Building Construction Management
+    cert: SDI Open Water
+    img: /images/scubavt/people/eli_square.jpg
 
   - position: Webmaster
-    name: Daniel Chen,
+    name: Daniel Chen
     major: Research Associate and PhD Student
     cert: IANTD Divemaster Candidate
     img: /images/scubavt/people/daniel.jpg
@@ -210,4 +186,4 @@ club_officers:
     name: Sarah Wilson
     major:
     cert: IANTD Advanced Open Water
-    img: /images/scubavt/people/sarah.jpg
+    img: /images/scubavt/people/sarah_square.jpg

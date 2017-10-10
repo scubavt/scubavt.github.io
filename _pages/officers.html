@@ -3,32 +3,31 @@ key: 1
 title: Club Officers
 permalink: /officers/
 excerpt: Club Officers
-image: pic02.jpg
-background-image: pic02.jpg
+image: officer_page.jpg
+background-image: officer_page.jpg
 ---
 <style>
-.floated_img
-{
-    float: left;
-}
-
-.image-cropper {
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
-    border-radius: 75%;
+.rounded {
+    height: 100px;
+    width: 100px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    background: center no-repeat;
+    background-size:cover;
 }
 </style>
 
 Our club officers for the 2017 - 2018 Academic Year.
 
 {% for officer in site.club_officers %}
-  <div class="image-cropper">
-      <img src="{{ officer.img }}"
-      title="{{ officer.name }}"
-      style="border-radius::{{ site.club_officers_settings.global_border_radius }};
-             width:{{ site.club_officers_settings.global_size_width }};
-             height:{{ site.club_officers_settings.global_size_height }};">
+  <div>
+      <img class="rounded"
+      src="{{ officer.img }}"
+      title="{{ officer.name }}">
+      {{ officer.name }}, {{ officer.major}}, {{ officer.cert}}
   </div>
 
 {% endfor %}
