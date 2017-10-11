@@ -29,12 +29,14 @@ greeting:
   text: |
     "We dive not to escape life, but for life not to escape us."
 
-    Welcome to the Scuba Club at Virginia Tech
+    Welcome to the Scuba Club at Virginia Tech.
+
     The Scuba Club at Virginia Tech plans diving and non-diving events,
     hosts bi-weekly meetings for business and special speakers/presentations/topics,
     and provides training for scuba divers.
 
     Courses range from Discover Scuba (no experience required) to the Divemaster/Scuba Instructor course.
+    You can even elect to become certified in technical skills such as Full-Cave, Trimix, and Closed Circuit Rebreather.
     
     We are working on this site to better facilitate the clubs mission, please stay tuned for updates to this site.
 
@@ -177,7 +179,7 @@ club_officers:
     img: /images/scubavt/people/eli_square.jpg
 
   - position: Webmaster
-    name: Daniel Chen
+    name: <a href='http://chendaniely.github.io/'>Daniel Chen</a>
     major: Research Associate and PhD Student
     cert: IANTD Divemaster Candidate
     img: /images/scubavt/people/daniel_square.jpg
