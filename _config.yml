@@ -26,7 +26,18 @@ first_published: 1996 # if migrating another site, the year of your first publis
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!
-  text: "We dive not to escape life, but for life not to escape us."
+  text: |
+    "We dive not to escape life, but for life not to escape us."
+
+    Welcome to the Scuba Club at Virginia Tech
+    The Scuba Club at Virginia Tech plans diving and non-diving events,
+    hosts bi-weekly meetings for business and special speakers/presentations/topics,
+    and provides training for scuba divers.
+
+    Courses range from Discover Scuba (no experience required) to the Divemaster/Scuba Instructor course.
+    
+    We are working on this site to better facilitate the clubs mission, please stay tuned for updates to this site.
+
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
