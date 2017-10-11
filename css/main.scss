@@ -971,12 +971,13 @@ $baseurl: '{{ site.baseurl }}/images';
 		height: 3.125em;
 		letter-spacing: _size(letter-spacing-alt);
 		line-height: _font(ctrl-bttn-lheight);
-		padding: 0 2.75em;
+		# padding: 0 2.75em;
+		padding: 0 0;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		overflow: hidden;
+		# overflow: hidden;
 		text-overflow: ellipsis;
 
 		&:hover {
