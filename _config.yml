@@ -1,6 +1,5 @@
 # Welcome to Jekyll!
 
-
 # In addition to these settings, there is a file _data/tokens-template.yml
 # that you'll want to customize for your site. It's named 'tokens' because
 # that was it's original purpose, but because tokens.yml is .gitexcluded, it's
@@ -155,12 +154,6 @@ club_officers:
     img: /images/scubavt/people/ashley_square.jpg
 
   - position: Gear Officer
-    name: Amanda Michel
-    major:
-    cert:
-    img: /images/scubavt/people/amanda.jpg
-
-  - position: Gear Officer
     name: Christine Ellis
     major:
     cert: IANTD Advanced Open Water
@@ -213,7 +206,7 @@ instructors:
     certs: IANTD Instructor
     blurb: >
       A former president of the club,
-      Phill is now an IANTD instructor helping the next round obtain his/her
+      Phil is now an IANTD instructor helping the next round obtain his/her
       open water certification.
       But he's not your average instructor!
       Before gaining his instructor certification,
