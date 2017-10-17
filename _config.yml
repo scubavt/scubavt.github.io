@@ -183,40 +183,63 @@ club_officers:
     cert: IANTD Advanced Open Water
     img: /images/scubavt/people/sarah_square.jpg
 
-# Club Officers Page
+# Instructors Page
 instructors:
   - name: Mark Guenther
     img: /images/scubavt/people/mark_square.jpg
+    agency: IANTD, PADI, SDI, TDI
     certs: Full Cave, Trimix
+    teach: 
     blurb: >
-      Fully devoted to the sport of SCUBA,
-      He also owns and runs <a href='https://www.facebook.com/PubGrubNRV/'>
-      Pub Grub</a> at the New River Valley Mall.
+      When he's not running his restaurant, <a href='https://www.facebook.com/PubGrubNRV/'>Pub Grub</a>,
+      at the New River Valley Mall, he's diving.
+      Mark's been involved with the club for <i>years</i>,
+      and helps teach and supports us with many volunteer hours and gear rentals.
+      There's nothing he won't do for us.
+      He's pretty much got every certification, short of rebreather, and can teach almost as many.
+      Drink of choice: Rumple Minze.
 
   - name: Chuk Horton
     img: /images/scubavt/people/chuck.jpg
-    certs: SDI Instructor
+    agency: IANTD, SDI
+    certs: IANTD & SDI Open Water SCUBA Instructor
+    teach: IANTD Diver 1st Aid/O2 Admin/AED , EANx , Open Water Open Water Nitrox 
     blurb: >
-      Chuck is a great guy.  He also works at the
+      Chuck is the Assistant Supervisor at the
       <a href='http://www.blacksburg.gov/departments/departments-l-z/parks-and-recreation/aquatic-center'>
-      Blacksburg Aquatic Center</a>.
+      Blacksburg Aquatic Center</a>,
+      where some of our confined pool sessions take place.
+      He's an avid fútbol fan, and you can frequently find him around the local dive spots.
+      One of the most jovial people you'll ever meet, he's also a great dive buddy.
 
   - name: Phillip Grambo
     img: /images/scubavt/people/phil_square.jpg
-    certs: IANTD Instructor
+    agency: IANTD
+    certs: TDI Sidemount, SDI Equipment Specialist
+    teach: EANx, Open Water Open Water Nitrox
     blurb: >
-      A former president of the club,
-      Phil is now an IANTD instructor helping the next round obtain his/her
-      open water certification.
+      Señor Phil was the former president of the club,
+      and is now an IANTD instructor helping the next round of students obtain his/her open water certification.
       But he's not your average instructor!
       Before gaining his instructor certification,
-      he served as the club's divemaster for a year,
-      and is currently a graduate student in mechanical engineering at Tech.
+      Fill served as the club's divemaster for a year,
+      and is currently helps visualize and inspect our tanks.
+      He's also a graduate student in mechanical engineering at Tech.
 
   - name: Scott Sanders
     img: /images/scubavt/people/scott_square.jpg
+    agency: IANTD, SDI, TDI
     certs: Everything
+    teach: Everything
     blurb: >
-      There woudn't be a diving community in Blacksburg
-      let alone a technical diving community without Scott.
-      <a href='http://techdivecenter.com/'>Tech Dive Center</a>.
+      There wouldn't be a technical diving community in Blacksburg
+      let alone a diving community without Scott.
+      He is the founder of the local dive shop, <a href='http://techdivecenter.com/'>Tech Dive Center</a>,
+      and currently the northeast sales representative for TUSA, Waterproof, Sea & Sea.
+      He can pretty much teach you anything and everything you want to learn.
+
+# Classes Offered
+class:
+  - Name: Class name
+    ageny: class agency
+    instructors: p1, p2
