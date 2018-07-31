@@ -6,6 +6,7 @@
 #
 layout: frontpage
 header:
+  title: ''
   image_fullwidth: scvt/scubavt_group_photo.jpg
 widget1:
   title: "SCUBA Diving"
