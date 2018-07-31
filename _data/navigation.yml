@@ -41,9 +41,11 @@
 - title: "About Us"
   url: "/about/"
   side: right
-  drowdown:
+  dropdown:
     - title: By Laws
-     url: "/by_laws/"
+      url: "/by_laws/"
+    - title: SOP
+      url: "/sop/"
 
 - title: "Contact"
   url: "/contact/"
