@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: "Calendar of Events"
 meta_title: "What and when"
