@@ -1,11 +1,14 @@
-# authors
-
-arkadianriver:
-  name: Gary Faircloth
-  bio: >
-    Interests: tech writing, programming, science, history.
-    You might also find me playing some PC Ga&mdash;SQUIRREL!
-  disqus_shortname: arkadianriver
-  url: http://arkadianriver.com
-  email: gfair@arkadianriver.com
-  avatar: gar.jpg
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+phlow: # replace this with your info
+  name: "Phlow"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://phlow.de/
+  email:
+  twitter: "@phlow"
+# you can add more authors here

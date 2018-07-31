@@ -1,0 +1,47 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: SCUBA Diving
+  url: "/scuba/"
+  side: left
+
+- title: Classes
+  url: "/classes/"
+  side: left
+
+- title: Rentals
+  url: "/rentals/"
+  side: left
+
+- title: Calendar
+  url: "/calendar/"
+  side: left
+
+- title: People
+  url: "/people/"
+  side: left
+  dropdown:
+  - title: "Officers"
+    url: "/officers/"
+  - title: "Instructors"
+    url: "/instructors/"
+
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+- title: FAQ
+  url: "/faq/"
+  side: right
+
+- title: "About Us"
+  url: "/about/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

@@ -1,51 +1,83 @@
-# Scuba Club at Virginia Tech
+# SCUBA at Virginia Tech Website
 
-:tropical_fish: :fish: :whale: :whale2: :dolphin:
+Based off the Feeling Responsive Jekyll theme (see below)
 
-## Credits
-Template from arkadianriver.com which is based off the http://html5up.net/spectral design by
-[@ajlkn](http://twitter.com/ajlkn).
-The site is made for blog and portfolio content. The blog can contain both
-personal entries and entries by syndicated authors.
-The site uses jekyll, a method of creating and maintaining a web site,
-which works by using local templates to generate static files that you upload
-and sync with your remote site.
-This repo is the same code I use for my site, excluding my posts.
+# Installation and Setup
 
-### If you clone or fork this repo to use it:
+1. Install `ruby` and `jekyll`
+2. `gem install jekyll bundler`
+3. `bundle install`
 
-0. Install [Jekyll](https://jekyllrb.com/) (version 3.1.2 or higher).
 
-0. Tweak the site to make it your own. Jekyll uses [YAML files](http://www.yaml.org/start.html)
-   for its site variables:
+<hr>
 
-   a. Edit the `_config.yml` file, replacing the values for each key with your info.
 
-   b. Add a `_data/tokens.yml` file with your IDs & mail program.
-      See the `_data/tokens-template.yml.` file for example entries.
+## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
-   c. Add author info for yourself in `_data/authors.yml` as the first
-      author entry in the file.
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
-   d. Provide your own images.
-   
-   e. Continue tweaking to your heart's desire, or not.
 
-0. Create your posts:
+# Newsletter: Stay in Touch for Future Updates
 
-   a. Use the posts in the 31st century as guides for yours. They're built by jekyll only when
-      the `--future` option is used.
+If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
 
-   b. You can run `ruby compose.rb` to create new draft posts.
+[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
 
-0. Test and publish your site:
 
-   If you're building your site on Windows (like me) and you use WinSCP to sync with your
-   remote site, you can use the `site.bat` file. Set up a `_site.env` file
-   as described in the comments of `site.bat` and change the excludes list for your site.
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-   `site dev` runs `jekyll serve --future --drafts` in development mode.  
-   `site devnof` runs `jekyll serve --drafts` in development mode.  
-   `site preview` runs `jekyll serve` in production mode.  
-   `site prod` simply builds with `jekyll build` in production mode (no serve).  
-   `site publish` uses WinSCP's `synchronize` feature to mirror to a remote site.
+## A Responsive Jekyll Theme: *Feeling Responsive*
+
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
+
+And what license is *Feeling Responsive* released under? [This one][2].
+
+
+
+## Why use this theme?
+
+Feeling Responsive is heavily customizable.
+
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
+
+**[More ›][3]**
+
+
+
+## Changelog
+
+*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
+
+**[Read Changelog ›][6]**
+
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: https://github.com/TWiStErRob
+ [6]: https://phlow.github.io/feeling-responsive/changelog/
+ [7]: http://phlow.github.io/feeling-responsive/
+ [8]: http://phlow.github.io/simplicity/
+ [9]: #
+ [10]: #
