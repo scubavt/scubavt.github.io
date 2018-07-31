@@ -41,6 +41,9 @@
 - title: "About Us"
   url: "/about/"
   side: right
+  drowdown:
+    - title: By Laws
+     url: "/by_laws/"
 
 - title: "Contact"
   url: "/contact/"
