@@ -26,6 +26,10 @@ Interested in advancing and improving your diving?
 - Baseline cost of $275
     - Grey Quarry weekend: $45
 
+## Sidemount
+
+$300
+
 ## Advanced Open Water
 
 Aow $200
