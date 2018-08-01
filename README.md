@@ -8,6 +8,11 @@ Based off the Feeling Responsive Jekyll theme (see below)
 2. `gem install jekyll bundler`
 3. `bundle install`
 
+Build and run the site locally:
+
+```
+bundle exec jekyll serve --watch
+```
 
 <hr>
 
