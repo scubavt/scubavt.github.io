@@ -3,7 +3,22 @@ layout: page
 title: "People"
 permalink: "/officers/"
 header:
-  image_fullwidth: officer_page.jpg
+image_fullwidth: officer_page.jpg
 ---
 
-The responsible ones
+### The ones that keep us afloat:  
+
+
+**President:** Ashley Bond, Rescue Diver  
+**Vice President:** Clay Cunningham, Advanced Open Water  
+**Treasurer:** Riley Randall, Open Water  
+**Secretary:** Sarah Wilson, Open Water  
+**Marketing Director:** Rachel Showers, Open Water  
+**Dive Director:** Tyler Ruf, Dive Master  
+**Dive Director:** Joey Griffiths, Dive Master  
+**Webmaster:** Daniel Chen, Dive Master  
+**Webmaster:** Eric Walters, Rescue Diver  
+**Gear Officer:** Nicholas Dyben, Rescue Diver  
+**Gear Officer:** Kevin Bryan, Advanced Open Water  
+**Gear Officer:** Christine Ellis, Advanced Open Water  
+**Gear Officer:** Eli Carwile, Advanced Open Water  

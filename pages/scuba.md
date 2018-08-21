@@ -3,8 +3,8 @@ layout: page
 title: "SCUBA Diving"
 meta_title: "What is SCUBA diving"
 subheadline: "The more you learn..."
-teaser: "Get to know more about the sport"
+teaser: "What the heck is SCUBA?"
 permalink: "/scuba/"
 ---
 
-que es scuba?
+SCUBA means Self Contained Underwater Breathing Apparatus. Which basically is a fancy way of saying we strap tanks to our back, sink to the bottom of the water and breathe. Totally normal.

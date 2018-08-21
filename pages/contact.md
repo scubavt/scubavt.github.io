@@ -9,9 +9,9 @@ permalink: "/contact/"
 
 Message us on Facebook: https://www.facebook.com/ScubaVT/
 
-Email us: scuba@vt.edu
+Email us: scubaclub@vt.edu
 
-And sign up for our newsletter!
+Sign up for our weekly newsletter!
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
