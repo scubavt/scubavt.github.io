@@ -10,7 +10,7 @@ image_fullwidth: officer_page.jpg
 
 
 **President:** Ashley Bond, Rescue Diver  
-**Vice President:** Clay Cunningham, Advanced Open Water  
+**Vice President:** Clay Cunningham, Rescue Diver  
 **Treasurer:** Riley Randall, Open Water  
 **Secretary:** Sarah Wilson, Open Water  
 **Marketing Director:** Rachel Showers, Open Water  
