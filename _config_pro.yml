@@ -1,0 +1,10 @@
+#
+# This config-file is only needed for travis production. Instead of changing the url
+# everytime you work locally on the project, you start both config-files, overwriting
+# the first one with the travis production variables needed.
+#
+# Start travis production with › $ jekyll serve --config _config.yml,_config_pro.yml
+
+url: 		'http://www.scuba.org.vt.edu'
+baseurl: 	''
+urlimg: 	'http://www.scuba.org.vt.edu/images/'
