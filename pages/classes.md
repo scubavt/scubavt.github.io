@@ -7,7 +7,7 @@ teaser: "Can I ...? Yes!"
 
 header:
   title: 'Classes'
-  image_fullwidth: instructor_page.jpg
+  image_fullwidth: wreck.jpg
 
 
 permalink: "/classes/"
