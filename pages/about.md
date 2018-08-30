@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "About Us"
+title: ""
 header: 
     image_fullwidth: "wreck.jpg"
     title: 'About SCVT'

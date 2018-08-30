@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SCUBA Diving"
+title: ""
 header:
     image_fullwidth: "wreck.jpg"
     title: 'Scuba Diving'

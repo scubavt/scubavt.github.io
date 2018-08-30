@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Standard Operating Procedures"
+title: ""
 header:
     image_fullwidth: "wreck.jpg"
     title: 'SOP'

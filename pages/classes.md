@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Certifications Taught"
+title: ""
 meta_title: "Classes"
 subheadline: "From Discover SCUBA to Full Cave!"
 teaser: "Can I ...? Yes!"

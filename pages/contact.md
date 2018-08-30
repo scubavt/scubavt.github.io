@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact"
+title: ""
 meta_title: 'Contact Us'
 header: 
     image_fullwidth: "wreck.jpg"

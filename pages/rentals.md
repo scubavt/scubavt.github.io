@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Gear Rentals"
+title: ""
 meta_title: "Gear Rentals"
 teaser: "Rent whatever you need"
 permalink: "/rentals/"

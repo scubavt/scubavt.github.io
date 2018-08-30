@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "People"
+title: ""
 permalink: "/officers/"
 meta_title: "Officers"
 header:
@@ -9,7 +9,7 @@ header:
 ---
 
 ### The ones that keep us afloat:  
-
+<br>  
 
 **President:** Ashley Bond, Rescue Diver  
 **Vice President:** Clay Cunningham, Rescue Diver  

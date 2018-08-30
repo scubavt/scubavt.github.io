@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Calendar of Events"
+title: ""
 meta_title: "Calendar"
 subheadline: "We're over here!"
 header: 

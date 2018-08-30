@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "People"
+title: ""
 meta_title: "Instructors"
 header:
     image_fullwidth: "wreck.jpg"
@@ -9,7 +9,7 @@ permalink: "/instructors/"
 ---
 
 ### The Experts  
-
+<br>  
 
 **Mark Guenther**  
 Companies: PADI, IANTD, SDI  
