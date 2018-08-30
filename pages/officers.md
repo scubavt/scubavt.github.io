@@ -4,7 +4,7 @@ title: "People"
 permalink: "/officers/"
 header:
     title: ''
-    image_fullwidth: officer_page.jpg
+    image_fullwidth: "wreck.jpg" 
 ---
 
 ### The ones that keep us afloat:  

@@ -6,9 +6,8 @@ subheadline: "From Discover SCUBA to Full Cave."
 teaser: "Can I ...? Yes."
 
 header:
-  title: ''
-  image_fullwidth: instructor_page.jpg
-
+    image_fullwidth: "wreck.jpg"
+    title: ''
 
 permalink: "/classes/"
 ---

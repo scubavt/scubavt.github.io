@@ -3,7 +3,8 @@ layout: page
 title: "People"
 permalink: "/people/"
 header:
-    title: People
+    image_fullwidth: "wreck.jpg"
+    title: '' 
 ---
 
 Who?

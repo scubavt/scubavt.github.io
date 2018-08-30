@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 header:
-    image_fullwidth: "instructor_page.jpg"
+    image_fullwidth: "wreck.jpg"
     title: ''
 permalink: "/instructors/"
 ---

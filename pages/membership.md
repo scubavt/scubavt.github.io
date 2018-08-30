@@ -1,7 +1,9 @@
 ---
 layout: page-fullwidth
 title: "Membership"
-header: no
+header: 
+    image_fullwidth: "wreck.jpg"
+    title: ''
 meta_title: "Membership"
 teaser: "Perks and how-tos of SCVT membership"
 permalink: "/membership/"

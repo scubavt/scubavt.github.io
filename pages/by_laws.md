@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "By-Laws"
-header: no
+header: 
+    image_fullwidth: "wreck.jpg"
+    title: ''
 permalink: "/by_laws/"
 ---
 
