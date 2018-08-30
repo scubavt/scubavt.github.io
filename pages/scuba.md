@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SCUBA Diving"
+header: no
 meta_title: "What is SCUBA diving"
 subheadline: "The more you learn..."
 teaser: "What the heck is SCUBA?"

@@ -3,7 +3,8 @@ layout: page
 title: "Calendar of Events"
 meta_title: "What and when"
 subheadline: "We're over here!"
-teaser: "Come find and talk to us"
+header: no
+teaser: "See what we're up to and when you can join in"
 permalink: "/calendar/"
 ---
 

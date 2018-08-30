@@ -3,7 +3,8 @@ layout: page
 title: "People"
 permalink: "/officers/"
 header:
-image_fullwidth: officer_page.jpg
+    title: ''
+    image_fullwidth: officer_page.jpg
 ---
 
 ### The ones that keep us afloat:  

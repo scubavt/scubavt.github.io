@@ -5,6 +5,9 @@ meta_title: "Don't have your own gear? We got you!"
 #subheadline: "Wufoo-powered contact forms"
 teaser: "Rent whatever you need"
 permalink: "/rentals/"
+header:
+    image_fullwidth: "scvt/gear_room/gear_room_06.jpg"
+    title: ''
 ---
 
 Gear rental costs

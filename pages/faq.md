@@ -2,6 +2,7 @@
 layout: page
 title: "Frequently Asked Questions"
 meta_title: "Frequently Asked Questions"
+header: no
 #subheadline: "Wufoo-powered contact forms"
 teaser: "You got questions? We got answers"
 permalink: "/faq/"

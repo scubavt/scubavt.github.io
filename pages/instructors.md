@@ -1,6 +1,9 @@
 ---
 layout: page
 title: "People"
+header:
+    image_fullwidth: "instructor_page.jpg"
+    title: ''
 permalink: "/instructors/"
 ---
 ### The Experts  
