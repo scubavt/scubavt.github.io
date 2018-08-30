@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: "By-Laws"
 permalink: "/by_laws/"

@@ -6,6 +6,10 @@
   url: "/scuba/"
   side: left
 
+- title: Membership
+  url: "/membership/"
+  side: left
+
 - title: Classes
   url: "/classes/"
   side: left
