@@ -1,62 +1,53 @@
 ---
 layout: page
 title: "Certifications Taught"
-meta_title: "If you want to learn it, you can"
-subheadline: "From Discover SCUBA to Full Cave."
-teaser: "Can I ...? Yes."
+meta_title: "Classes"
+subheadline: "From Discover SCUBA to Full Cave!"
+teaser: "Can I ...? Yes!"
 
 header:
-    image_fullwidth: "wreck.jpg"
-    title: ''
+  title: 'Classes'
+  image_fullwidth: instructor_page.jpg
+
 
 permalink: "/classes/"
 ---
-
-Interested in advancing and improving your diving?
+Interested in advancing and improving your diving? See our class list below!
 
 <hr>
 
-# Recreational
-
-## Discover SCUBA
-
-## Open Water
-
+### Recreational:
+##### Discover SCUBA
+- FREE for our scheduled sessions once a semester
+- $25 for a personal session
+##### Open Water
 - Baseline cost of $275
-    - Grey Quarry weekend: $45
-
-## Advanced Open Water
-
-Aow $200
-
-## Rescue
-
-Rescue $250
-
-## Nitrox
-
-Nitrox $ 100
-
-## Sidemount
-
-$300
-
+    - Local open water dives: FREE
+    - Travel open water dives: $60+
+##### Advanced Open Water
+- $200 plus travel fees
+##### Rescue
+- $250 plus travel fees (if any)
+##### Nitrox
+- $100 (classroom only, no dives)
+##### Sidemount
+- $300 plus travel fees (if any)
 <hr>
 
-# Go Pro!
-
-## Divemaster
-
-Divemaster $400
-
+### Go Pro!
+##### Divemaster
+- Divemaster Internship $500
+    - Plus $250 for materials
 <hr>
 
-# Technical
+### Go Technical!
+##### Cavern
+- $300 plus travel fees
+##### Intro Cave
+- Contact an instructor for pricing
+##### Full Cave
+- Contact an instructor for pricing
+<hr>
 
-## Cavern
-
-$300
-
-## Intro Cave
-
-## Full Cave
+### Want a certification not listed here? 
+Ask us about it in our [Contact Form](/contact/)!

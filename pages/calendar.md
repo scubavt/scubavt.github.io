@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Calendar of Events"
-meta_title: "What and when"
+meta_title: "Calendar"
 subheadline: "We're over here!"
 header: 
     image_fullwidth: "wreck.jpg"
-    title: ''
+    title: 'Calendar'
 teaser: "See what we're up to and when you can join in"
 permalink: "/calendar/"
 ---

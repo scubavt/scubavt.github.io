@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "People"
+meta_title: "Instructors"
 header:
     image_fullwidth: "wreck.jpg"
-    title: ''
+    title: 'Instructors'
 permalink: "/instructors/"
 ---
 ### The Experts  

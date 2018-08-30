@@ -3,7 +3,7 @@ layout: page
 title: "Standard Operating Procedures"
 header:
     image_fullwidth: "wreck.jpg"
-    title: ''
+    title: 'SOP'
 permalink: "/sop/"
 ---
 

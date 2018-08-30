@@ -2,8 +2,9 @@
 layout: page
 title: "People"
 permalink: "/officers/"
+meta_title: "Officers"
 header:
-    title: ''
+    title: 'Officers'
     image_fullwidth: "wreck.jpg" 
 ---
 

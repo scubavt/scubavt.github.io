@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "About Us"
 header: 
     image_fullwidth: "wreck.jpg"
-    title: ''
+    title: 'About SCVT'
 meta_title: "About SCVT"
 teaser: "SCVT was founded in 1964 and is one of the oldest clubs at Virginia Tech. SCVT is older than some dive companies! IANTD was founded in 1985 and PADI was founded in 1966!"
 permalink: "/about/"

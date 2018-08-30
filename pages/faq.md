@@ -4,8 +4,7 @@ title: "Frequently Asked Questions"
 meta_title: "Frequently Asked Questions"
 header:
     image_fullwidth: "wreck.jpg"
-    title: ''
-#subheadline: "Wufoo-powered contact forms"
+    title: 'FAQs'
 teaser: "You got questions? We got answers"
 permalink: "/faq/"
 ---
