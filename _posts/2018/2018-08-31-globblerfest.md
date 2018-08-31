@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: Templates
+subheadline: Meet us at the Drillfield!
 title:  "Globblerfest 2018"
-teaser: "Welcome (back) to campus!"
+teaser: "Welcome (back) to campus. Come find us on the Drillfield and talk SCUBA to us!"
 breadcrumb: true
 author: daniel chen
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: page
 #sidebar: left
-subheadline: Templates
+subheadline: Learn all the things!
 title:  "SCVT 1st Annual Dive College"
 teaser: "SCVT and Tethys Diving have teamed up to offer you the most efficient, cheapest, and most fun diving certification experience possible!"
 breadcrumb: true
