@@ -1,12 +1,15 @@
 ---
 layout: page
+header:
+    image_fullwidth: 'wreck.jpg'
+    title: 'Gobblerfest 2018'
 subheadline: Meet us at the Drillfield!
-title:  "Globblerfest 2018"
+title:  "Gobblerfest 2018"
 teaser: "Welcome (back) to campus. Come find us on the Drillfield and talk SCUBA to us!"
 breadcrumb: true
 author: daniel chen
 tags:
-    - globbler fest
+    - gobbler fest
 ---
 
 Our first interest meeting will be on Wednesday, September 5, from 7:00 PM to 8:00 PM at Litton Reeves Rm 1870.
