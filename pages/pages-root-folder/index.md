@@ -9,19 +9,19 @@ header:
   title: ''
   image_fullwidth: scvt/scubavt_group_photo.jpg
 widget1:
-  title: "SCUBA Diving"
-  url: '/scuba/'
-  image: widget-1-302x182.jpg
-  text: 'Self-contained underwater breathing apparatus (SCUBA)'
+  title: "Membership"
+  url: '/membership/'
+#  image: scvt/scuba_hokie.png
+  text: 'How to sign up'
 widget2:
-  title: "FAQ"
-  url: '/faq/'
-  text: '<em>Questions?</em> We have answers!<br/>1. How much are classes?<br/>2. What classes are offered?.<br/>3. How do I pay for something?<br/>4. How much are dues?<br/>5. Etc...'
+  title: "Classes"
+  url: '/classes/'
+  text: 'More about our classes'
 widget3:
   title: "About Us"
   url: '/about/'
-  image: widget-github-303x182.jpg
-  text: '<em>SCVT</em> '
+#  image: scvt/scuba_hokie.png
+  text: 'Learn about the club'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,7 +35,7 @@ widget3:
 # 
 callforaction:
   url: http://eepurl.com/7ESfr
-  text: Signup for our mailing list ›
+  text: Sign up for our mailing list ›
   style: alert
 permalink: /index.html
 #

@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "SCUBA Diving"
-meta_title: "What is SCUBA diving"
+title: ""
+header:
+    image_fullwidth: "wreck.jpg"
+    title: 'Scuba Diving'
+meta_title: "SCUBA Diving"
 subheadline: "The more you learn..."
 teaser: "What the heck is SCUBA?"
 permalink: "/scuba/"

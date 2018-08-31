@@ -6,6 +6,10 @@
   url: "/scuba/"
   side: left
 
+- title: Membership
+  url: "/membership/"
+  side: left
+
 - title: Classes
   url: "/classes/"
   side: left
@@ -44,8 +48,8 @@
   dropdown:
     - title: By Laws
       url: "/by_laws/"
-    - title: SOP
-      url: "/sop/"
+      #- title: SOP
+      #url: "/sop/"
 
 - title: "Contact"
   url: "/contact/"

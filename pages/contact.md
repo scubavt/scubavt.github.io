@@ -1,15 +1,17 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-#subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: ""
+meta_title: 'Contact Us'
+header: 
+    image_fullwidth: "wreck.jpg"
+    title: 'Contact Us'
+teaser: "Get in touch with the club? Use the contact form."
 permalink: "/contact/"
 ---
 
-Message us on Facebook: https://www.facebook.com/ScubaVT/
+Message us on Facebook: [https://www.facebook.com/ScubaVT/](https://www.facebook.com/ScubaVT/)
 
-Email us: scubaclub@vt.edu
+Email us: [scubaclub@vt.edu](mailto:scubaclub@vt.edu)
 
 Sign up for our weekly newsletter!
 
@@ -18,7 +20,7 @@ Sign up for our weekly newsletter!
 <form action="https://ScubaVT.us5.list-manage.com/subscribe/post?u=a5595f3d3adcabbaa31a39a6d&amp;id=84c71eace9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">*</span> Indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>

@@ -17,11 +17,12 @@ slogan: 'Take only pictures, kill only time, leave only bubbles'
 description: 'SCUBA Club at Virginia Tech«'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by the Scuba Club at Virginia Tech with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
 author: chendaniely
+author: ericjw
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #

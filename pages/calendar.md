@@ -1,9 +1,12 @@
 ---
 layout: page
-title: "Calendar of Events"
-meta_title: "What and when"
+title: ""
+meta_title: "Calendar"
 subheadline: "We're over here!"
-teaser: "Come find and talk to us"
+header: 
+    image_fullwidth: "wreck.jpg"
+    title: 'Calendar'
+teaser: "See what we're up to and when you can join in"
 permalink: "/calendar/"
 ---
 
