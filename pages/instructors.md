@@ -13,12 +13,12 @@ permalink: "/instructors/"
 
 **Mark Guenther**  
 Companies: PADI, IANTD, SDI/TDI  
-Certifications taught: Master Diver, Cavern, Deep Wreck, Sidemount, Intro to Tech, Drysuit, and more!
+Certifications taught: Master Diver, Cavern, Deep Wreck, Sidemount, Intro to Tech, Drysuit, and more!  
 Email: [tethysdivetraining@gmail.com](mailto:tethysdivetraining@gmail.com)
 
 **Phillip Grambo**  
 Companies: IANTD  
-Certifications taught: Open Water, Advanced Open Water, Rescue Diver, Nitrox, Dive Master
+Certifications taught: Open Water, Advanced Open Water, Rescue Diver, Nitrox, Dive Master  
 Email: [phillip8@vt.edu](mailto:phillip8@vt.edu)
 
 **Chuck Horton**  
