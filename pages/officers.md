@@ -53,7 +53,7 @@ header:
       <em>"Yearbook quote"</em><br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/daniel.jpg">
+      <img src="../images/scvt/people/daniel_cropped.jpg">
       <strong>Webmaster:</strong> Daniel Chen<br>IANTD Dive Master<br>
       <em>"Yearbook quote"</em><br><br>
   </div>
