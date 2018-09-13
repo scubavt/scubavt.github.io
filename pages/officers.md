@@ -77,7 +77,7 @@ header:
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/christine_small.jpg">
-      <strong>Gear Officer:</strong> Christine Ellis<br>IANTD Advanced Open Water<br>
+      <strong>Gear Officer:</strong> Christine Ellis<br>IANTD Advanced Open Water diver<br>
       <em>"Yearbook quote"</em><br><br>
   </div>
 </div>
@@ -89,14 +89,8 @@ header:
       <em>"Yearbook quote"</em><br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/ashley.jpg">
-      <strong>asdf:</strong> asdf<br>IANTD asdf<br>
-      <em>"Yearbook quote"</em><br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/ashley.jpg">
-      <strong>qwerty</strong> qwerty<br>qwerty<br>
-      <em>"Yearbook quote"</em><br><br>
   </div>
 </div>
 
