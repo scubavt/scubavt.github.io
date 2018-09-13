@@ -24,7 +24,8 @@ Why not?!??!?!?!
 - Access to our well-dives that keep your scuba skills sharp and up to date
 - Access to cheap prices on personal gear purchases
 - An endless supply of dive buddies!!
-- A lifetime of fun memories!
+- A lifetime of fun memories!  
+
 #### Dues: 
 $35 a semester   
 $50 a year
