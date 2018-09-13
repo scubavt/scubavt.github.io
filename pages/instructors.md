@@ -12,8 +12,8 @@ permalink: "/instructors/"
 <br>  
 
 **Mark Guenther**  
-Companies: PADI, IANTD, SDI  
-Certifications taught: Open Water, Advanced Open Water, Rescue Diver, Nitrox, Dive Master, Cave, Intro Cavern, Full Cavern, Instructor, CPR/First Aid and O2 Administration, and more!  
+Companies: PADI, IANTD, SDI/TDI  
+Certifications taught: Master Diver, Cavern, Deep Wreck, Sidemount, Intro to Tech, Drysuit, and more!
 Email: [tethysdivetraining@gmail.com](mailto:tethysdivetraining@gmail.com)
 
 **Phillip Grambo**  
