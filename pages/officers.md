@@ -32,7 +32,7 @@ header:
       <strong>Secretary:</strong> Sarah Wilson<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/rachel_small.jpg">
+      <img src="../images/scvt/people/rachel_small.jpeg">
       <strong>Marketing Director:</strong> Rachel Showers<br>Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
