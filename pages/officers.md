@@ -52,7 +52,7 @@ header:
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/ashley_small.jpg">
-      <strong>Webmaster:</strong> Eric Walters<br>Rescue Diver<br><br>
+      <strong>Gear Officer:</strong> Eric Walters<br>Rescue Diver<br><br>
   </div>
 </div>
 
