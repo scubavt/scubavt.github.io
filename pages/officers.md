@@ -29,10 +29,10 @@ header:
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/sarah_small.jpg">
-      <strong>Secretary:</strong> Sarah Wilson<br>Open Water diver<br><br>
+      <strong>Secretary:</strong> Sarah Wilson<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/ashley_small.jpg">
+      <img src="../images/scvt/people/rachel_small.jpg">
       <strong>Marketing Director:</strong> Rachel Showers<br>Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
