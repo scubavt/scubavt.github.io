@@ -21,7 +21,7 @@ header:
       <strong>Vice President:</strong> Clay Cunningham<br>Rescue diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/ashley_small.jpg">
+      <img src="../images/scvt/people/james.jpg">
       <strong>Treasurer:</strong> James Fishenden<br>Open Water diver<br><br>
   </div>
 </div>
@@ -51,8 +51,8 @@ header:
       <strong>Webmaster:</strong> Daniel Chen<br>Dive Master<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/ashley_small.jpg">
-      <strong>Gear Officer:</strong> Eric Walters<br>Rescue Diver<br><br>
+      <img src="../images/scvt/people/eric.jpg">
+      <strong>Gear Officer:</strong> Eric Walters<br>Rescue diver<br><br>
   </div>
 </div>
 
@@ -62,7 +62,7 @@ header:
       <strong>Gear Officer:</strong> Nicholas Dyben<br>Rescue diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/ashley_small.jpg">
+      <img src="../images/scvt/people/kevin.jpg">
       <strong>Gear Officer:</strong> Kevin Bryan<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
@@ -81,21 +81,3 @@ header:
   <div class="large-4 columns" style="text-align:center">
   </div>
 </div>
-
-<br>
-<br>
-<br>
-<br>
-**President:** Ashley Bond, Rescue Diver  
-**Vice President:** Clay Cunningham, Rescue Diver  
-**Treasurer:** Riley Randall, Open Water  
-**Secretary:** Sarah Wilson, Open Water  
-**Marketing Director:** Rachel Showers, Open Water  
-**Dive Director:** Tyler Ruf, Dive Master  
-**Dive Director:** Joey Griffiths, Dive Master  
-**Webmaster:** Daniel Chen, Dive Master  
-**Webmaster:** Eric Walters, Rescue Diver  
-**Gear Officer:** Nicholas Dyben, Rescue Diver  
-**Gear Officer:** Kevin Bryan, Advanced Open Water  
-**Gear Officer:** Christine Ellis, Advanced Open Water  
-**Gear Officer:** Eli Carwile, Advanced Open Water  
