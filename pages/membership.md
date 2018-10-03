@@ -9,16 +9,13 @@ teaser: "Perks and how-tos of SCVT membership"
 permalink: "/membership/"
 ---
 
-### SCVT Membership 
-
 #### Why  be a member??
 
 Why not?!??!?!?!
 
 #### Perks of being a member:
-- Ability to rent gear from the club  
-	- SCVT owns everything you need to go diving!  
-		- Regulators, bcds, wetsuits, boots, snorkels, masks, fins, gear bags, tanks, weight belts, weights, and more!
+- Ability to rent gear from the club - SCVT owns everything you need to go diving!  
+  - Regulators, bcds, wetsuits, boots, snorkels, masks, fins, gear bags, tanks, weight belts, weights, and more!
 - Exclusive inviations to our trips, completely organized by SCVT: all you have to do is show up!
 - Exclusive discounted classes through our SCVT instructors. (Our open water class runs for only $275!!)
 - Access to our well-dives that keep your scuba skills sharp and up to date
@@ -27,8 +24,13 @@ Why not?!??!?!?!
 - A lifetime of fun memories!  
 
 #### Dues: 
-$35 a semester   
-$50 a year
+__$35__ a semester   
+__$50__ a year
 
-##### SCVT membership is open to anyone - certified or not! 
-(We'll get you certified in no time!)
+#### SCVT membership is open to anyone - certified or not! 
+(We'll get you certified in no time!)  
+
+#### How do I join?
+- Come see us at our meetings every other week
+- [Contact](/contact/) us via email, social media, or contact form
+- [Download](/assets/SCVT_Application_for_Member.pdf) our membership form. Fill it out and email it back or bring it to a meeting!
