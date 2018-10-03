@@ -58,7 +58,7 @@ header:
 
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/ashley_small.jpg">
+      <img src="../images/scvt/people/nick.jpg">
       <strong>Gear Officer:</strong> Nicholas Dyben<br>Rescue diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">

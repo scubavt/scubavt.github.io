@@ -23,13 +23,25 @@
   side: left
 
 - title: People
-  url: "/people/"
+#  url: "/people/"
   side: left
   dropdown:
   - title: "Officers"
     url: "/officers/"
   - title: "Instructors"
     url: "/instructors/"
+
+- title: Trips
+  side: left
+  dropdown:
+  - title: Fall Break
+    url: "/fall-trip/"
+  - title: Thanksgiving Break
+    url: "/thanksgiving-trip" 
+  - title: Winter Break
+    url: "/winter-trip"
+  - title: Spring Break
+    url: "/spring-trip"
 
 #- title: Blog
 #  url: "/blog/"
