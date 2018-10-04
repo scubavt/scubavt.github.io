@@ -5,11 +5,11 @@ meta_title: "Thanksgiving Break"
 header:
     image_fullwidth: "wreck.jpg"
     title: 'Thanksgiving Break Trip<br>Nov 17-25, 2018'
-teaser: "Come dive with us in the Florida Keys!"
+teaser: "Come dive with us in Florida!"
 permalink: "/thanksgiving-trip/"
 ---
 
-- __Location__: Florida Keys  
+- __Location__: Islamorada, Florida Keys with [Florida Keys Dive Center](https://www.floridakeysdivectr.com/)  
 - __Price__: $650 for half week (Sat pm-Wed am) or $950 for full week (Sat pm-Fri am)  
 - __Includes__: Lodging, food, charter costs, tank fills  
 - Does __NOT__ include gear rental. Prices listed on website.  
@@ -18,4 +18,6 @@ permalink: "/thanksgiving-trip/"
   - First Payment of $250 due __Oct. 3rd__  
   - Second Payment of $250 due __Oct. 17th__  
   - Final Balance of either $150 or $450 due __Oct. 31st__  
-
+{% include alert text='If you are interested in joining us and want to take a class during this trip, 
+contact our instructor [Mark Guenther](mailto:tethysdivetraining@gmail.com). We can get you through 
+your Advanced, Rescue, Deep, Nitrox, or even Open Water Diver certs!'%}
