@@ -5,15 +5,13 @@ meta_title: 'Contact Us'
 header: 
     image_fullwidth: "wreck.jpg"
     title: 'Contact Us'
-teaser: "Get in touch with the club? Use the contact form."
+teaser: "How do I get in touch with the club?"
 permalink: "/contact/"
 ---
 
-Message us on Facebook: [https://www.facebook.com/ScubaVT/](https://www.facebook.com/ScubaVT/)
-
-Email us: [scubaclub@vt.edu](mailto:scubaclub@vt.edu)
-
-Sign up for our weekly newsletter!
+1. __Message__ us on Facebook: [https://www.facebook.com/ScubaVT/](https://www.facebook.com/ScubaVT/)
+1. __Email__ us: [scubaclub@vt.edu](mailto:scubaclub@vt.edu)
+1. __Sign up__ for our newsletter below!
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
@@ -34,7 +32,7 @@ Sign up for our weekly newsletter!
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
-<p><a href="https://us5.campaign-archive.com/home/?u=a5595f3d3adcabbaa31a39a6d&id=84c71eace9" title="View previous campaigns">View previous campaigns.</a></p>
+<p><a href="https://us5.campaign-archive.com/home/?u=a5595f3d3adcabbaa31a39a6d&id=84c71eace9" title="View previous campaigns">View previous newsletters</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
