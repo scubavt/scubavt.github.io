@@ -4,8 +4,8 @@ title: ""
 meta_title: "Thanksgiving Break"
 header:
     image_fullwidth: "wreck.jpg"
-    title: 'Thanksgiving Break Trip<br>Nov 17-25, 2018'
-teaser: "Come dive with us in Florida!"
+    title: 'Thanksgiving Break Trip<br>Nov 23-27, 2019'
+teaser: "Dive with our friends at Submerged Scuba for Thanksgiving!"
 permalink: "/thanksgiving-trip/"
 ---
 
