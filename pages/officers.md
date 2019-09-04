@@ -18,7 +18,7 @@ header:
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/little_eli.jpg">
-      <strong>Vice President:</strong> Eli Carwile<br>Rescue diver<br><br>
+      <strong>Vice President:</strong> Eli Carwile<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/james.jpg">
