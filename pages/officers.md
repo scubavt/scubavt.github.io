@@ -48,7 +48,7 @@ header:
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/daniel_small.jpg">
-      <strong>Gear Officer:</strong> Daniel Hildebrand<br>Open Water Diver<br><br>
+      <strong>Gear Officer:</strong> Daniel Hildebrand<br>Advanced Open Water Diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/casey_small.jpg">
@@ -58,8 +58,8 @@ header:
 
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/scubavt_logo.jpg">
-      <strong>Gear Officer:</strong> Christopher Guthrie<br>Open Water diver<br><br>
+      <img src="../images/scvt/christopher_small.jpg">
+      <strong>Gear Officer:</strong> Christopher Guthrie<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
   </div>
