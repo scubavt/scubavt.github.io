@@ -13,68 +13,53 @@ header:
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/ashley_small.jpg">
-      <strong>President:</strong> Ashley Bond<br>Rescue diver<br><br>
+      <strong>President:</strong> Ashley Bond<br>Divemaster<br><br>
       <!--<em>"quote"</em><br><br> -->
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/clay_small.jpg">
-      <strong>Vice President:</strong> Clay Cunningham<br>Rescue diver<br><br>
+      <img src="../images/scvt/people/little_eli.jpg">
+      <strong>Vice President:</strong> Eli Carwile<br>Rescue diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/james.jpg">
-      <strong>Treasurer:</strong> James Fishenden<br>Open Water diver<br><br>
+      <strong>Secretary:</strong> James Fishenden<br>Advanced Open Water diver<br><br>
   </div>
 </div>
 
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/sarah_small.jpg">
-      <strong>Secretary:</strong> Sarah Wilson<br>Advanced Open Water diver<br><br>
+      <img src="../images/scvt/people/matthew_small.jpg">
+      <strong>Treasurer:</strong> Matthew Coyne<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/rachel_small.jpeg">
-      <strong>Marketing Director:</strong> Rachel Showers<br>Open Water diver<br><br>
-  </div>
-  <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/tyler_small.jpg">
-      <strong>Dive Director:</strong> Tyler Ruf<br>Dive Master<br><br>
-  </div>
-</div>
-
-<div class="row">
-  <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/joey_small.jpg">
-      <strong>Dive Director:</strong> Joey Griffiths<br>Dive Master<br><br>
-  </div>
-  <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/daniel_cropped.jpg">
-      <strong>Webmaster:</strong> Daniel Chen<br>Dive Master<br><br>
+      <img src="../images/scvt/scubavt_logo.jpg">
+      <strong>Marketing Director:</strong> Clare Provancha<br>Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
       <img src="../images/scvt/people/eric.jpg">
-      <strong>Gear Officer:</strong> Eric Walters<br>Rescue diver<br><br>
+      <strong>Dive Director:</strong> Eric Walters<br>Dive Master<br><br>
   </div>
 </div>
 
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/nick.jpg">
-      <strong>Gear Officer:</strong> Nicholas Dyben<br>Rescue diver<br><br>
+            <img src="../images/scvt/scubavt_logo.jpg">
+      <strong>Gear Officer:</strong> Jaxson Bonsall<br>Rescue Diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/kevin.jpg">
-      <strong>Gear Officer:</strong> Kevin Bryan<br>Advanced Open Water diver<br><br>
+      <img src="../images/scvt/people/daniel_small.jpg">
+      <strong>Gear Officer:</strong> Daniel Hildebrand<br>Open Water Diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/christine_small.jpg">
-      <strong>Gear Officer:</strong> Christine Ellis<br>Advanced Open Water diver<br><br>
+      <img src="../images/scvt/people/casey_small.jpg">
+      <strong>Gear Officer:</strong> Casey Lee<br>Advanced Open Water Diver<br><br>
   </div>
 </div>
 
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/people/little_eli.jpg">
-      <strong>Gear Officer:</strong> Eli Carwile<br>Advanced Open Water diver<br><br>
+      <img src="../images/scvt/scubavt_logo.jpg">
+      <strong>Gear Officer:</strong> Christopher Guthrie<br>Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
   </div>
