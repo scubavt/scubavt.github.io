@@ -20,6 +20,8 @@ gallery:
       caption: Pic 5
     - image_url: /scvt/scuba_hokie.png
       caption: Pic 6
+    - image_url: /scvt/scuba_hokie.png
+      caption: Pic 7
 ---
 
 
