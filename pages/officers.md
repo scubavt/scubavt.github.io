@@ -58,7 +58,7 @@ header:
 
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/christopher_small.jpg">
+      <img src="../images/scvt/people/christopher_small.jpg">
       <strong>Gear Officer:</strong> Christopher Guthrie<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
