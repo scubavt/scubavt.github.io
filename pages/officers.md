@@ -32,7 +32,7 @@ header:
       <strong>Treasurer:</strong> Matthew Coyne<br>Advanced Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
-      <img src="../images/scvt/scubavt_logo.jpg">
+      <img src="../images/scvt/people/clare_small.jpg">
       <strong>Marketing Director:</strong> Clare Provancha<br>Open Water diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
@@ -43,7 +43,7 @@ header:
 
 <div class="row">
   <div class="large-4 columns" style="text-align:center">
-            <img src="../images/scvt/scubavt_logo.jpg">
+            <img src="../images/scvt/people/jaxson_small.jpg">
       <strong>Gear Officer:</strong> Jaxson Bonsall<br>Rescue Diver<br><br>
   </div>
   <div class="large-4 columns" style="text-align:center">
