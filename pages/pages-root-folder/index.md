@@ -7,11 +7,10 @@
 layout: frontpage
 header:
   title: ''
-  image_fullwidth: scvt/scubavt_group_photo.jpg
+  image_fullwidth: ../images/scvt/pool_sign_photo.jpeg
 widget1:
   title: "Membership"
   url: '/membership/'
-#  image: scvt/scuba_hokie.png
   text: 'How to sign up'
 widget2:
   title: "Classes"

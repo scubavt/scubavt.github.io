@@ -20,5 +20,4 @@ permalink: "/fall-trip/"
 - Does __NOT__ include gear rental. Prices listed on website.
 - Payment Due __Oct. 2nd__  
 
-
-#{% include gallery %}
+{% include gallery %}

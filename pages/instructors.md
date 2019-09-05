@@ -14,7 +14,7 @@ permalink: "/instructors/"
 **Mark Guenther**  
 Companies: PADI, IANTD, SDI/TDI  
 Certifications taught: Master Diver, Cavern, Deep Wreck, Sidemount, Intro to Tech, Drysuit, and more!  
-Email: [tethysdivetraining@gmail.com](mailto:tethysdivetraining@gmail.com)
+Email: [info@submergedscuba.com](mailto:info@submergedscuba.com)
 
 **Chuck Horton**  
 Companies: IANTD, SDI  
