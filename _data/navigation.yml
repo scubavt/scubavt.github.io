@@ -38,8 +38,8 @@
     url: "/fall-trip/"
   - title: Thanksgiving Break
     url: "/thanksgiving-trip" 
-  - title: Winter Break
-    url: "/winter-trip"
+#  - title: Winter Break
+#    url: "/winter-trip"
   - title: Spring Break
     url: "/spring-trip"
 

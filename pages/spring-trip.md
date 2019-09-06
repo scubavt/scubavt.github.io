@@ -8,20 +8,18 @@ header:
 teaser: "Spring break in Cozumel!"
 permalink: "/spring-trip/"
 gallery:
-    - image_url: /scvt/scuba_hokie.png
-      caption: Pic 1
-    - image_url: /scvt/scuba_hokie.png
-      caption: Pic 2
-    - image_url: /scvt/scuba_hokie.png
-      caption: Pic 3
-    - image_url: /scvt/scuba_hokie.png
-      caption: Pic 4
-    - image_url: /scvt/scuba_hokie.png
-      caption: Pic 5
-    - image_url: /scvt/scuba_hokie.png
-      caption: Pic 6
-    - image_url: /scvt/scuba_hokie.png
-      caption: Pic 7
+    - image_url: /places/cozumel/one.jpg
+    - image_url: /places/cozumel/two.JPG
+    - image_url: /places/cozumel/four.JPG
+    - image_url: /places/cozumel/five.jpg
+    - image_url: /places/cozumel/six.JPG
+    - image_url: /places/cozumel/seven.jpg
+    - image_url: /places/cozumel/eight.jpg
+    - image_url: /places/cozumel/nine.jpg
+    - image_url: /places/cozumel/ten.JPG
+    - image_url: /places/cozumel/eleven.jpg
+    - image_url: /places/cozumel/twelve.jpg
+    - image_url: /places/cozumel/thirteen.JPG
 ---
 
 

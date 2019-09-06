@@ -7,11 +7,15 @@ header:
     title: 'Fall Break Trip<br>Oct 4-6, 2019'
 teaser: "Come dive with us in Tennessee!"
 permalink: "/fall-trip/"
-#gallery:
-#    - image_url: scvt/people/ashley.jpg
-#      caption: Ashley Bond
-#    - image_url: scvt/people/christine.jpg
-#      caption: Christine
+gallery:
+    - image_url: places/gray_quarry/one.jpeg
+    - image_url: places/gray_quarry/two.jpeg
+    - image_url: places/gray_quarry/three.jpeg
+    - image_url: places/gray_quarry/four.JPG
+    - image_url: places/gray_quarry/five.jpeg
+    - image_url: places/gray_quarry/six.JPG
+    - image_url: places/gray_quarry/seven.JPG
+
 ---
 
 - __Location__: Gray Quarry, TN with [Smoky Mountain Dive Shop](http://www.smokymountaindivers.com/)  
