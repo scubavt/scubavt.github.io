@@ -19,9 +19,9 @@ gallery:
 ---
 
 - __Location__: Gray Quarry, TN with [Smoky Mountain Dive Shop](http://www.smokymountaindivers.com/)  
-- __Price__: $90 (Fri pm-Sun pm) or $60 (Sat am-Sun pm)  
-- __Includes__: Campsite cost, food and drink, gas, tank fills, Gray Quarry entry fee
+- __Price__: $90 (Fri pm-Sun pm) or $60 (Sat am-Sun pm OR Fri pm-Sat pm)  
+- __Includes__: Campsite cost, food, tank fills (2 days = 4 tanks, 3 days = 6 tanks. SMD offers extra tank fills at $8/tank), Gray Quarry entry fee
 - Does __NOT__ include gear rental. Prices listed on website.
-- Payment Due __Oct. 2nd__  
+- Payment Due __Oct. 1st__  
 
 {% include gallery %}
