@@ -8,3 +8,4 @@
 url: 		'http://www.scuba.org.vt.edu'
 baseurl: 	''
 urlimg: 	'http://www.scuba.org.vt.edu/images/'
+future: true
