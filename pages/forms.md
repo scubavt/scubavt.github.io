@@ -8,7 +8,9 @@ header:
 permalink: "/forms/"
 ---
 
-## Important Forms:  
+## Important Forms:
+
+***
 
 [IANTD Medical](/assets/IANTD_Medical.pdf)  
 [IANTD Liability](/assets/IANTD_Liability.pdf)  
