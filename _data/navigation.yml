@@ -38,17 +38,20 @@
     url: "/fall-trip/"
   - title: Thanksgiving Break
     url: "/thanksgiving-trip" 
-#  - title: Winter Break
-#    url: "/winter-trip"
   - title: Spring Break
     url: "/spring-trip"
 
-#- title: Blog
-#  url: "/blog/"
-#  side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
+
+- title: Forms
+  url: "/forms/"
+  side: right
+
+- title: Blog
+  url: "/blog/"
+  side: right
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: FAQ
   url: "/faq/"

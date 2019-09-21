@@ -23,7 +23,7 @@ Pretty much all of them! Everything from Discover Scuba and Open Water, all the 
 
 ### Do you have your own gear?
 
-Yes! In our gear room (Room 5 of War Memorial Hall) we have multiple full sets of gear that can be rented out to any member at any time!
+Yes! In our shed (behind Submerged Scuba) we have multiple full sets of gear that can be rented out to any member at any time!
 
 ### How do I become a member?
 
