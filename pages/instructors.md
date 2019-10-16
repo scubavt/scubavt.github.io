@@ -16,6 +16,11 @@ Companies: PADI, IANTD, SDI/TDI
 Certifications taught: Master Diver, Cavern, Deep Wreck, Sidemount, Intro to Tech, Drysuit, and more!  
 Email: [info@submergedscuba.com](mailto:info@submergedscuba.com)
 
+**Chuck Swecker**  
+Companies: PADI, IANTD, ????  
+Certifications taught: Open Water, Advanced Open Water, ??, ???  
+Email: [test@tester.com](test@tester.com)
+
 **Chuck Horton**  
 Companies: IANTD, SDI  
 Certifications taught: Open Water, Advanced Open Water, Rescue Diver, Nitrox, Dive Master  

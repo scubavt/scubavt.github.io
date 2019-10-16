@@ -14,6 +14,14 @@
   url: "/classes/"
   side: left
 
+- title: Training
+  side: left
+  dropdown:
+    - title: Submerged Scuba
+      url: "/submerged/"
+    - title: Aquatrek Adventures
+      url: "/aquatrek/"
+
 - title: Rentals
   url: "/rentals/"
   side: left

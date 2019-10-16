@@ -16,7 +16,7 @@ Interested in advancing and improving your diving? See our class list below!
 
 <hr>
 
-All of our classes are currently taught by instructors at [Submerged Scuba](https://submergedscuba.com). To learn more or sign up for a class, [Contact us](/contact/).
+All of our classes are currently taught by instructors at [Submerged Scuba](https://submergedscuba.com) and [Aquatrek Adventures](http://www.aquatrekadventures.com). To learn more or sign up for a class, [Contact us](/contact/).
 
 ### Recreational:
 
