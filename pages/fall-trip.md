@@ -5,7 +5,7 @@ meta_title: "Fall Break"
 header:
     image_fullwidth: "wreck.jpg"
     title: 'Fall Break Trip<br>Oct 4-6, 2019'
-teaser: "Come dive with us in Tennessee!"
+teaser: "Where did we go?"
 permalink: "/fall-trip/"
 gallery:
     - image_url: places/gray_quarry/one.jpeg
@@ -15,13 +15,13 @@ gallery:
     - image_url: places/gray_quarry/five.jpeg
     - image_url: places/gray_quarry/six.JPG
     - image_url: places/gray_quarry/seven.JPG
+    - image_url: places/gray_quarry/eight.jpg
+    - image_url: places/gray_quarry/ten.jpeg
+    - image_url: places/gray_quarry/eleven.jpeg
 
 ---
 
 - __Location__: Gray Quarry, TN with [Smoky Mountain Dive Shop](http://www.smokymountaindivers.com/)  
-- __Price__: $90 (Fri pm-Sun pm) or $60 (Sat am-Sun pm OR Fri pm-Sat pm)  
-- __Includes__: Campsite cost, food, tank fills (2 days = 4 tanks, 3 days = 6 tanks. SMD offers extra tank fills at $8/tank), Gray Quarry entry fee
-- Does __NOT__ include gear rental. Prices listed on website.
-- Payment Due __Oct. 1st__  
+We had a great weekend at Gray! We had a small group, but we still had lots of fun. Camping, diving, and good times make for a great fall break! Come join us next year!!!
 
 {% include gallery %}
