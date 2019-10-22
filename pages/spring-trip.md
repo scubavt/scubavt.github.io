@@ -25,6 +25,7 @@ gallery:
 
 - __Location__: Cozumel, Mexico at [Hotel Cozumel and Resort](http://www.hotelcozumel.com.mx)
 - __Price__: $1300 (Subject to changes until flights are purchased)
+  - $900 for non-divers (bring a friend or a significant other!)
 - __Includes__: flight, lodging, food, charter fees, tank fills, DM charter tips, airport shuttle fee
 
 {% include gallery %}
